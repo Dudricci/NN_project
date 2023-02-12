@@ -25,7 +25,7 @@ pip install librosa
 ```
 
 
-
+## Multi-instrument Music Synthesis with Spectrogram Diffusion
 
 <img src="https://storage.googleapis.com/music-synthesis-with-spectrogram-diffusion/architecture.png" alt="Architecture diagram">
 
