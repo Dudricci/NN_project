@@ -1,3 +1,26 @@
+## PREREQUISITES
+
+
+-To install Pip, use the following command:
+
+```
+sudo apt install python3-pip
+```
+
+-Then, use Pip to install PyTorch with CPU support only:
+
+```
+pip3 install torch==1.9.1+cpu torchvision==0.10.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+```
+
+-To install PyTorch using GPU/NVIDIA instances, use the following command:
+
+```
+pip3 install -f torch torchvision
+```
+
+
+
 <img src="https://storage.googleapis.com/music-synthesis-with-spectrogram-diffusion/architecture.png" alt="Architecture diagram">
 
 In this work, we focus on synthesizers that can encode and decode audio from MIDI sequences with arbitrary combinations of instruments in realtime.
