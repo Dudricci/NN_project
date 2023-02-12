@@ -13,11 +13,17 @@ sudo apt install python3-pip
 pip3 install torch==1.9.1+cpu torchvision==0.10.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
--To install PyTorch using GPU/NVIDIA instances, use the following command:
 
+-install the following packages
 ```
-pip3 install -f torch torchvision
+pip install midi2audio
+pip install pretty_midi
+pip install fluidsynth
+pip install -U pip
+pip install -U matplotlib
+pip install librosa
 ```
+
 
 
 
