@@ -29,6 +29,8 @@ pip install librosa
 
 <img src="https://storage.googleapis.com/music-synthesis-with-spectrogram-diffusion/architecture.png" alt="Architecture diagram">
 
+##Abstract
+
 In this work, we focus on synthesizers that can encode and decode audio from MIDI sequences with arbitrary combinations of instruments in realtime.
 
 Our work was divided in two stages. In the first, we created the two in-parallel encoders, which have the same structure. Then, we created the decoder, with a similar architecture to the encoders.
