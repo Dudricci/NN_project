@@ -5,7 +5,7 @@ This repository contains an implementation of the paper https://arxiv.org/abs/22
 ## PREREQUISITES
 
 
--To install Pip, use the following command:
+- use the following command:
 
 ```
 sudo apt install python3-pip
