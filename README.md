@@ -1,3 +1,7 @@
+## Multi-instrument Music Synthesis with Spectrogram Diffusion
+
+This repository contains an implementation of the paper https://arxiv.org/abs/2206.05408
+
 ## PREREQUISITES
 
 
@@ -24,8 +28,6 @@ pip install -U matplotlib
 pip install librosa
 ```
 
-
-## Multi-instrument Music Synthesis with Spectrogram Diffusion
 
 <img src="https://storage.googleapis.com/music-synthesis-with-spectrogram-diffusion/architecture.png" alt="Architecture diagram">
 
